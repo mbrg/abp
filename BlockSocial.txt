@@ -1,6 +1,6 @@
-! Title: Block Social mbg
+! Title: Block Social (mbg)
 ! Description: Block entire social media sites to avoid distractions
-! Version: 1
+! Version: 2
 ! Date: 2024-02-12
 ! Expires: 1 day
 
