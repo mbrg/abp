@@ -1,6 +1,6 @@
-! Title: Block News mbg
+! Title: Block News (mbg)
 ! Description: Block entire news sites to avoid distractions
-! Version: 2
+! Version: 3
 ! Date: 2024-01-12
 ! Expires: 1 day
 
